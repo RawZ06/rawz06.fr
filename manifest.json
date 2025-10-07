@@ -1,0 +1,21 @@
+{
+  "name": "RawZ06 — dev & player",
+  "short_name": "RawZ06",
+  "description": "Je crée, je code, je joue — souvent dans cet ordre.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#06d6a0",
+  "icons": [
+    {
+      "src": "https://avatars.githubusercontent.com/u/44646690?s=192&u=e33f2be7a5fbae0edc8042097789ba73653b1fdf&v=4",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/44646690?s=512&u=e33f2be7a5fbae0edc8042097789ba73653b1fdf&v=4",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
